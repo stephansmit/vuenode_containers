@@ -1,6 +1,6 @@
 # NodeJS container 
 
-Container with [Vue](https://vuejs.org)
+Container with [Vue.js](https://vuejs.org)
 
 ## Build the container locally
 ~~~~
